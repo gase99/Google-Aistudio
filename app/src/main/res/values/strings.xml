@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">A-Cut 2Dpro</string>
+    <string name="app_subtitle">بهینه‌سازی برش دوبعدی ورق — از ورود قطعات تا نقشه، DXF و لیبل</string>
+    <string name="developer_credit">طراحی و توسعه: عباس کروشاد</string>
+    <string name="untitled_project">پروژهٔ بدون نام</string>
+    <string name="step_setup">تعریف ورق و قطعات</string>
+    <string name="step_analysis">تحلیل و نقشه</string>
+    <string name="step_labels">لیبل‌ها</string>
+    <string name="step_exports">خروجی‌ها</string>
+    <string name="action_calculate">محاسبهٔ چیدمان</string>
+    <string name="action_recalculate">محاسبه / به‌روزرسانی نقشه</string>
+    <string name="action_add_row">افزودن ردیف</string>
+    <string name="action_sample_data">دادهٔ نمونه</string>
+    <string name="action_remove_empty">حذف ردیف‌های خالی</string>
+    <string name="action_clear_all">پاک‌کردن همه</string>
+    <string name="action_projects">مدیریت پروژه‌ها</string>
+    <string name="action_save">ذخیرهٔ پروژه</string>
+    <string name="action_save_as">ذخیره با نام جدید…</string>
+    <string name="action_new_project">پروژهٔ جدید</string>
+    <string name="action_open_project">باز کردن پروژه…</string>
+    <string name="export_pdf_map">PDF نقشه و لیست قطعات</string>
+    <string name="export_dxf">دانلود DXF برای CNC</string>
+    <string name="export_pdf_labels">PDF لیبل‌ها</string>
+</resources>
